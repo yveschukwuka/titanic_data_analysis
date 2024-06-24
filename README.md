@@ -1,0 +1,1 @@
+This repository contains an in-depth analysis of the Titanic passengers dataset. Explore the factors influencing survival through data visualization and statistical insights. Perfect for data enthusiasts and beginners looking to enhance their data analysis skills. Dive in to uncover the untold stories of the Titanic!
